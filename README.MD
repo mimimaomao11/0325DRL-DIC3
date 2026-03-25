@@ -9,6 +9,10 @@
 
 ---
 
+# 模擬結果
+
+![alt text](Figure_1-1.png)
+
 # 問題說明
 
 本問題為三個選擇的決策情境（3-armed bandit）。
